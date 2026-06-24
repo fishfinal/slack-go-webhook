@@ -3,7 +3,7 @@
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat&logo=go)](https://golang.org/)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 [![Go Report Card](https://goreportcard.com/badge/github.com/fishfinal/slack-webhook)](https://goreportcard.com/report/github.com/fishfinal/slack-webhook)
-[![codecov](https://codecov.io/gh/fishfinal/slack-webhook/branch/main/graph/badge.svg)](https://codecov.io/gh/fishfinal/slack-webhook)
+[![codecov](https://codecov.io/gh/fishfinal/slack-go-webhook/branch/main/graph/badge.svg)](https://codecov.io/gh/fishfinal/slack-go-webhook)
 
 A lightweight, high-performance Slack webhook client for Go with connection pooling, context support, and comprehensive configuration options.
 
